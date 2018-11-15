@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ConnectionProviderExtensions.cs](./CS/ScheduledTasksAPIClientDemo/ConnectionProviderExtensions.cs) (VB: [ConnectionProviderExtensions.vb](./VB/ScheduledTasksAPIClientDemo/ConnectionProviderExtensions.vb))
+* [MainForm.cs](./CS/ScheduledTasksAPIClientDemo/MainForm.cs) (VB: [MainForm.vb](./VB/ScheduledTasksAPIClientDemo/MainForm.vb))
+* [Program.cs](./CS/ScheduledTasksAPIClientDemo/Program.cs) (VB: [Program.vb](./VB/ScheduledTasksAPIClientDemo/Program.vb))
+* [ReportViewerForm.cs](./CS/ScheduledTasksAPIClientDemo/ReportViewerForm.cs) (VB: [ReportViewerForm.vb](./VB/ScheduledTasksAPIClientDemo/ReportViewerForm.vb))
+* [SchedulerJobResultsForm.cs](./CS/ScheduledTasksAPIClientDemo/SchedulerJobResultsForm.cs) (VB: [SchedulerJobResultsForm.vb](./VB/ScheduledTasksAPIClientDemo/SchedulerJobResultsForm.vb))
+* [SchedulerJobViewerForm.cs](./CS/ScheduledTasksAPIClientDemo/SchedulerJobViewerForm.cs) (VB: [SchedulerJobViewerForm.vb](./VB/ScheduledTasksAPIClientDemo/SchedulerJobViewerForm.vb))
+* [WaitForm1.cs](./CS/ScheduledTasksAPIClientDemo/WaitForm1.cs) (VB: [WaitForm1.vb](./VB/ScheduledTasksAPIClientDemo/WaitForm1.vb))
+<!-- default file list end -->
 # Report Server - How to manage scheduled jobs from a Windows Forms application
 
 
