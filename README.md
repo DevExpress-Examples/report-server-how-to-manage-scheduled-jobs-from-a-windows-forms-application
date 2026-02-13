@@ -10,7 +10,7 @@ We continue to enhance DevExpress-related learning materials/examples on GitHub.
 
 If the use-case outlined in this example is of importance to you (or if you require additional guidance), please submit a support ticket via the [DevExpress Support Center](https://supportcenter.devexpress.com/ticket/create?followUpTo=T431255). We will be happy to follow-up.
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=report-server-how-to-manage-scheduled-jobs-from-a-windows-forms-application&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=report-server-how-to-manage-scheduled-jobs-from-a-windows-forms-application&~~~was_helpful=no)
 
